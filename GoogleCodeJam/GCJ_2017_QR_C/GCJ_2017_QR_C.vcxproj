@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{7CE2E968-7206-4DD7-93DA-A82734C69635}</ProjectGuid>
+    <ProjectGuid>{A4F2F107-E69B-4277-BA77-E77599150967}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>GCJ2017</RootNamespace>
+    <RootNamespace>GCJ_2017_QR_C</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
