@@ -30,9 +30,31 @@ using namespace tr1;
 typedef long long ll;
 typedef unsigned long long ull;
 
+bool isTidy(ll n) {
+   int prev = n % 10;
+   n = n / 10;
+   while (n) {
+      if (n % 10 > prev) return false;
+      prev = n % 10;
+      n = n / 10;
+   }
+   return true;
+}
+
 void solve(int test)
 {
    printf("Case #%d: ", test + 1);
+   long long n;
+   cin >> n;
+
+   while (n) {
+      if (isTidy(n)) {
+         printf("%llu\n", n);
+         break;
+      }
+      --n;
+   }
+
 }
 
 int main()

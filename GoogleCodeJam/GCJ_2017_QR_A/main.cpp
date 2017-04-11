@@ -30,9 +30,40 @@ using namespace tr1;
 typedef long long ll;
 typedef unsigned long long ull;
 
+void flip(string& s, size_t pos, size_t sz) {
+   for (size_t i = pos; i < pos + sz; ++i) {
+      if (s[i] == '-') s[i] = '+';
+      else s[i] = '-';
+   }
+
+}
+
 void solve(int test)
 {
    printf("Case #%d: ", test + 1);
+   string s;
+   cin >> s;
+   int k;
+   cin >> k;
+
+   int flips = 0;
+
+   for (size_t i = 0; i < s.length()-k+1; ++i) {
+      if (s[i] == '-') {
+         flip(s, i, k);
+         ++flips;
+      }
+   }
+   
+   for (size_t i = s.length() - k; i < s.length(); ++i) {
+      if (s[i] == '-') {
+         printf("IMPOSSIBLE\n");
+         return;
+      }
+   }
+
+   printf("%d\n", flips);
+
 }
 
 int main()

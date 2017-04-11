@@ -33,27 +33,45 @@ typedef unsigned long long ull;
 void solve(int test)
 {
    printf("Case #%d: ", test + 1);
-   ll n;
-   ll k;
+   string n;
    cin >> n;
-   cin >> k;
-   //cout << n << " " << k << " ";
-   priority_queue<ll> q;
-   q.push(n);
-   ll m;
-
-   while (k) {
-      n = q.top();
-      m =  (n-1) / 2;
-      q.push(m);
-      q.push(n-m-1);
-      --k;
-      q.pop();
+   if (n.length() == 1) {
+      printf("%s\n", n.c_str());
+      return;
    }
-   ll sl = m;
-   ll sr = n - m - 1;
+   bool isTidy = true;
+   size_t lastInc = 0;
+   size_t i = 1;
+   while (i < n.length()) {
+      if (n[i] >= n[i - 1]) {
+         if (n[i] > n[i - 1]) {
+            lastInc = i;
+         }
+         ++i;
+      }
+      else {
+         isTidy = false;
+         break;
+      }
+   }
 
-   printf("%lld %lld\n", max(sl, sr), min(sl, sr));
+   if (isTidy) {
+      printf("%s\n", n.c_str());
+      return;
+   }
+
+   string result;
+   result += n.substr(0, lastInc);
+   result += n[lastInc] - 1;
+   result.append(n.length() - lastInc-1, '9');
+
+   i = 0;
+   while (result[i] == '0') {
+      ++i;
+   }
+
+   result = result.substr(i, result.length() - i);
+   printf("%s\n", result.c_str());
 }
 
 int main()
