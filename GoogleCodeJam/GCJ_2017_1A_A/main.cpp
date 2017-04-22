@@ -18,6 +18,7 @@
 #include <cassert>
 #include <math.h>
 #include <memory.h>
+#include <unordered_set>
 
 //#pragma comment(linker, "/STACK:134217728")
 
@@ -32,7 +33,83 @@ typedef unsigned long long ull;
 
 void solve(int test)
 {
-   printf("Case #%d: ", test + 1);
+   printf("Case #%d: \n", test + 1);
+   int rows, cols;
+   cin >> rows;
+   cin >> cols;
+   vector<string> cake(rows);
+
+   string row;
+   unordered_set<char> used;
+   for (size_t i = 0; i < rows; ++i) {
+      cin >> row;
+      cake[i] = row;
+   }
+
+   char c;
+   for (size_t row = 0; row < rows; ++row) {
+      for (size_t col = 0; col < cols; ++col) {
+         c = cake[row][col];
+         if (c!='?' && used.count(c) == 0) {
+            used.insert(c);
+            bool used = false;
+
+            int colNew = col + 1;
+            while (colNew < cols && cake[row][colNew] == '?') {
+               cake[row][colNew] = c;
+               ++colNew;
+               used = true;
+            }
+
+            colNew = col - 1;
+            while (colNew >= 0 && cake[row][colNew] == '?') {
+               cake[row][colNew] = c;
+               --colNew;
+               used = true;
+            }
+
+            int rownew = row + 1;
+            while (!used && rownew < rows && cake[rownew][col] == '?') {
+               cake[rownew][col] = c;
+               ++rownew;
+            }
+            rownew = row - 1;
+            while (!used && rownew >= 0 && cake[rownew][col] == '?') {
+               cake[rownew][col] = c;
+               --rownew;
+            }
+
+
+         }
+      }
+   }
+
+
+   for (size_t row = 0; row < rows; ++row) {
+      if (cake[row].find('?') != string::npos) {
+         int col = cake[row].find('?');
+         int newRow;
+         if (row > 0) {
+            newRow = row - 1;
+         }
+         else {
+            newRow = row + 1;
+         }
+         if (col ==0 || cake[newRow][col - 1] == cake[row][col - 1]) {
+            for (int newCol = col; newCol < cols && cake[row][newCol] == '?' ; ++newCol) {
+               cake[row][newCol] = cake[newRow][newCol];
+            }
+         }
+
+      }
+   }
+
+
+
+   for (size_t i = 0; i < rows; ++i) {
+      cout << cake[i] << "\n";
+   }
+
 }
 
 int main()
