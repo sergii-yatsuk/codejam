@@ -1,0 +1,4709 @@
+Case #1:
+c...*
+....*
+...**
+..***
+Case #2:
+c..**
+...**
+...**
+...**
+*****
+Case #3:
+c..**
+...**
+...**
+*****
+*****
+Case #4:
+c...*
+....*
+....*
+....*
+*****
+Case #5:
+c...
+....
+....
+...*
+..**
+Case #6:
+c..*
+...*
+...*
+..**
+Case #7:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #8:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #9:
+c...
+....
+....
+...*
+****
+Case #10:
+c
+.
+.
+*
+Case #11:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #12:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #13:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #14:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #15:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #16:
+c.**
+Case #17:
+c*
+Case #18:
+c.***
+..***
+Case #19:
+c..
+...
+...
+...
+...
+Case #20:
+c..**
+...**
+...**
+..***
+Case #21:
+c.
+..
+..
+..
+..
+Case #22:
+c...*
+....*
+Case #23:
+c.*
+..*
+..*
+***
+***
+Case #24:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #25:
+c.***
+..***
+..***
+Case #26:
+c
+*
+Case #27:
+c..**
+...**
+...**
+...**
+Case #28:
+c...
+....
+....
+..**
+****
+Case #29:
+c....
+.....
+.....
+....*
+...**
+Case #30:
+c....
+.....
+.....
+.....
+Case #31:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #32:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #33:
+c...
+....
+....
+....
+****
+Case #34:
+c....
+.....
+Case #35:
+c....
+.....
+....*
+Case #36:
+c****
+*****
+*****
+*****
+Case #37:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #38:
+c....
+.....
+.....
+....*
+Case #39:
+c
+.
+Case #40:
+c
+.
+*
+Case #41:
+c....
+.....
+.....
+....*
+....*
+Case #42:
+c..**
+...**
+...**
+Case #43:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #44:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #45:
+c..**
+...**
+Case #46:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #47:
+c....
+.....
+.....
+Case #48:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #49:
+c....
+.....
+.....
+...**
+Case #50:
+c
+.
+.
+*
+*
+Case #51:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #52:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #53:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #54:
+c..*
+...*
+...*
+...*
+****
+Case #55:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #56:
+c.
+..
+..
+..
+**
+Case #57:
+c.
+Case #58:
+c
+.
+*
+*
+*
+Case #59:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #60:
+c.**
+..**
+****
+****
+****
+Case #61:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #62:
+c..*
+...*
+Case #63:
+c...
+....
+....
+....
+Case #64:
+c...*
+....*
+....*
+...**
+*****
+Case #65:
+c.*
+..*
+***
+***
+Case #66:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #67:
+c**
+***
+***
+***
+***
+Case #68:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #69:
+c*
+**
+**
+Case #70:
+c.**
+..**
+..**
+Case #71:
+c...
+....
+....
+Case #72:
+c****
+*****
+*****
+Case #73:
+c***
+Case #74:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #75:
+c....
+.....
+.....
+.....
+.....
+Case #76:
+c.**
+..**
+Case #77:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #78:
+c....
+.....
+...**
+Case #79:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #80:
+c***
+****
+****
+****
+****
+Case #81:
+c...
+....
+....
+..**
+Case #82:
+c...
+....
+....
+....
+....
+Case #83:
+c...
+....
+....
+...*
+Case #84:
+c.**
+..**
+****
+Case #85:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #86:
+c.
+..
+**
+**
+**
+Case #87:
+c.***
+..***
+*****
+Case #88:
+c..
+...
+...
+***
+***
+Case #89:
+c****
+*****
+Case #90:
+c.***
+..***
+..***
+*****
+Case #91:
+c..
+Case #92:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #93:
+c...*
+....*
+....*
+...**
+Case #94:
+c*
+**
+Case #95:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #96:
+c...*
+....*
+...**
+Case #97:
+c....
+.....
+....*
+...**
+Case #98:
+c...
+....
+...*
+..**
+Case #99:
+c...
+....
+...*
+..**
+****
+Case #100:
+c.
+..
+..
+..
+Case #101:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #102:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #103:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #104:
+c*
+**
+**
+**
+Case #105:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #106:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #107:
+c..*
+...*
+...*
+..**
+****
+Case #108:
+c...
+....
+....
+...*
+...*
+Case #109:
+c...*
+....*
+....*
+....*
+Case #110:
+c.*
+..*
+Case #111:
+c..**
+...**
+...**
+*****
+Case #112:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #113:
+c.
+..
+..
+**
+Case #114:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #115:
+c.
+..
+**
+**
+Case #116:
+c....
+.....
+.....
+.....
+....*
+Case #117:
+c..**
+...**
+...**
+..***
+*****
+Case #118:
+c.***
+..***
+*****
+*****
+*****
+Case #119:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #120:
+c
+.
+.
+.
+Case #121:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #122:
+c
+.
+*
+*
+Case #123:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #124:
+c..*
+...*
+...*
+...*
+Case #125:
+c****
+*****
+*****
+*****
+*****
+Case #126:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #127:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #128:
+c***
+****
+****
+****
+Case #129:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #130:
+c..
+...
+...
+...
+***
+Case #131:
+c.**
+..**
+****
+****
+Case #132:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #133:
+c**
+***
+***
+Case #134:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #135:
+c...*
+....*
+....*
+...**
+..***
+Case #136:
+c.
+..
+..
+**
+**
+Case #137:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #138:
+c.
+..
+Case #139:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #140:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #141:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #142:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #143:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #144:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #145:
+c..*
+...*
+...*
+****
+Case #146:
+c
+Case #147:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #148:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #149:
+c..
+...
+...
+Case #150:
+c..
+...
+...
+***
+Case #151:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #152:
+c
+.
+.
+Case #153:
+c..
+...
+...
+...
+Case #154:
+c
+*
+*
+Case #155:
+c**
+Case #156:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #157:
+c***
+****
+Case #158:
+c..
+...
+...
+...
+..*
+Case #159:
+c
+*
+*
+*
+Case #160:
+c.***
+Case #161:
+c...*
+....*
+....*
+....*
+....*
+Case #162:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #163:
+c..*
+Case #164:
+c..
+...
+...
+..*
+***
+Case #165:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #166:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #167:
+c.**
+..**
+..**
+****
+****
+Case #168:
+c...*
+....*
+....*
+Case #169:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #170:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #171:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #172:
+c
+.
+.
+.
+*
+Case #173:
+c.*
+Case #174:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #175:
+c****
+Case #176:
+c.
+..
+**
+Case #177:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #178:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #179:
+c...
+....
+...*
+Case #180:
+c..
+...
+Case #181:
+c.*
+..*
+***
+Case #182:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #183:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #184:
+c...
+....
+....
+....
+...*
+Case #185:
+c.*
+..*
+***
+***
+***
+Case #186:
+c.**
+..**
+..**
+****
+Case #187:
+c...
+....
+Case #188:
+c...
+Case #189:
+c
+.
+.
+.
+.
+Case #190:
+c.*
+..*
+..*
+Case #191:
+c..
+...
+...
+..*
+Case #192:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #193:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #194:
+c
+*
+*
+*
+*
+Case #195:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #196:
+c...*
+....*
+....*
+...**
+...**
+Case #197:
+c..**
+Case #198:
+c*
+**
+**
+**
+**
+Case #199:
+c...*
+....*
+....*
+....*
+...**
+Case #200:
+c..*
+...*
+...*
+****
+****
+Case #201:
+c...*
+....*
+....*
+..***
+Case #202:
+c.
+..
+..
+Case #203:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #204:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #205:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #206:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #207:
+c***
+****
+****
+Case #208:
+c....
+.....
+....*
+....*
+...**
+Case #209:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #210:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #211:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #212:
+c**
+***
+Case #213:
+c.***
+..***
+*****
+*****
+Case #214:
+c....
+Case #215:
+c.*
+..*
+..*
+***
+Case #216:
+c...*
+Case #217:
+c..*
+...*
+...*
+Case #218:
+c...*
+....*
+...**
+..***
+*****
+Case #219:
+c.***
+..***
+..***
+*****
+*****
+Case #220:
+c**
+***
+***
+***
+Case #221:
+c...*
+....*
+....*
+..***
+*****
+Case #222:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #223:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #224:
+Australian Securities Exchange/Sydney Futures Exchange
+BGC Partners, Inc.
+Borsa Istanbul
+Borsa Italiana*
+Brazilian Futures (BM&F)
+BrokerTec
+Bursa Malaysia
+CBOE Futures Exchange
+Chicago Board of Trade
+Chicago Mercantile Exchange
+CME Europe 
+COMEX
+Dubai Gold and Commodities Exchange
+Dubai Mercantile Exchange
+Eurex
+GETDirect by KCG
+GLOBEX
+GovEx
+Hong Kong Futures Exchange
+ICE Futures Canada®
+ICE Futures Europe®
+ICE Futures US®
+Johannesburg Stock Exchange*
+Kansas City Board of Trade
+KCG Hotspot 
+Korea Exchange*
+London Metal Exchange
+LSE Derivatives
+MEFF-RV*
+Mexican Derivatives Exchange
+Minneapolis Grain Exchange
+Montreal Exchange
+Moscow Exchange
+NASDAQ OMX Commodities
+NASDAQ OMX Nordic Derivatives
+NASDAQ OMX eSpeed
+New Zealand Exchange
+NLX 
+NYMEX
+NYSE Liffe  
+NYSE Liffe U.S. 
+OneChicago
+Osaka Securities Exchange
+Singapore Futures Exchange
+Thailand Futures Exchange
+Tokyo Commodity Exchange
+Tokyo Financial Exchange
+Tokyo Stock Exchange  
+Ukrainian Exchange 
+- See more at: http://www.cqg.com/electronic-trading/exchanges-and-instruments.aspx#sthash.o4vmhdHg.dpuf
+Case #225:
+c..
+...
+...
+..*
+..*

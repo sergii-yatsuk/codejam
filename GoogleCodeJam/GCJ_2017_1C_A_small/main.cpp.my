@@ -38,36 +38,52 @@ void solve(int test)
    int k;
    cin >> n;
    cin >> k;
-   vector<tuple<double, int, int>> pk;
-   double r;
-   double h;
-   double p;
-   const double pi = std::acos(-1);
+   vector<pair<int, int>> pk;
+
+   
+   const double pi = 3.14159265359;
+
    for (int i = 0; i < n; ++i) {
+      int r;
+      int h;
       cin >> r;
       cin >> h;
-      p = pi*(r*r + 2 * r*h);
-      pk.push_back(make_tuple(p, h, r));
+      
+      pk.push_back(make_pair(r,h));
    }
 
-   sort(pk.rbegin(), pk.rend());
-
-   double totalH = 0;
+   sort(pk.begin(), pk.end(),  [](const pair<int, int>& a, const pair<int, int>& b) {
+      return long(b.first) * long(b.second) < long(a.first) * long(a.second);
+   });
 
    double result = 0;
-   
-   for (int i = 0; i < k; ++i) {
-      r = get<2>(pk[i]);
-      h = get<1>(pk[i]);
-      result += 2 * r*h;
+
+   for (int i = 0; i < n; ++i) {
+      double  r = pk[i].first;
+      double  h = pk[i].second;
+      double localRes = pi*r*r+ 2.0 * pi*h*r;
+
+      int j = k - 1;
+
+      for (int ii = 0; ii < n && j>0; ++ii) {
+         r = pk[ii].first;
+         h = pk[ii].second;
+
+         if (ii == i || r > pk[i].first) continue;
+
+         localRes += pi* 2.0 * r*h;
+         --j;
+      }
+      if (localRes > result) result = localRes;
+
    }
-   r = get<2>(pk[0]);
 
-   result = pi*(result + r*r);
 
-   printf("%.8f\n", result);
+   
 
-} 
+   printf("%.6f\n", result);
+
+}
 
 int main()
 {
